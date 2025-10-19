@@ -1,3 +1,8 @@
+---
+name: trainingsites-brand
+description: Complete brand guidelines and styling instructions for TrainingSites course materials, with special focus on Google Docs integration and beginner-friendly educational content.
+---
+
 # TrainingSites Brand Styling
 
 ## Overview
@@ -161,51 +166,6 @@ To access TrainingSites' official brand identity and style resources for course 
 * Buttons: Roboto 500 (uppercase, letter-spacing 0.5px)
 * Code: Roboto Mono 400/14px
 
-## Features
-
-### Smart Font Application
-* Applies Comfortaa font to all headings (H1-H6)
-* Applies Roboto font to body text and UI elements
-* Automatically falls back to system fonts if Google Fonts unavailable
-* Preserves readability and brand consistency across all systems
-
-### Color System
-* **Primary Actions:** Dark Blue (#0B4F6C) for main CTAs and headings
-* **Success/Positive:** Green (#20BF55) for confirmations and success states
-* **Interactive Elements:** Light Blue (#6EC1E4) for links and hover states
-* **Content:** Dark Gray (#333333) on White (#FFFFFF) for optimal readability
-
-### Course Creation Specific Styling
-* **Video Thumbnails:** Dark Blue backgrounds with white text
-* **Progress Indicators:** Green for completed sections
-* **Interactive Elements:** Light Blue for clickable items
-* **Section Dividers:** 10% Dark Blue tint for subtle separation
-
-## Technical Implementation
-
-### Font Loading
-```css
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&family=Roboto:wght@400;500&display=swap');
-```
-
-### Color Values (RGB for precise matching)
-* Dark Blue: RGB(11, 79, 108)
-* Green: RGB(32, 191, 85)
-* Light Blue: RGB(110, 193, 228)
-* White: RGB(255, 255, 255)
-* Dark Gray: RGB(51, 51, 51)
-
-### Button Styling
-* **Primary Buttons:** Dark Blue background, white text, 6px border radius
-* **Hover State:** Transitions to Green background
-* **Padding:** 0.6em vertical, 1.4em horizontal
-* **Transition:** 0.2s background color change
-
-### Link Styling
-* **Default Links:** Light Blue (#6EC1E4)
-* **Hover State:** Green (#20BF55)
-* **Visited:** Maintains Light Blue for consistency
-
 ## Platform-Specific Applications
 
 ### Google Docs/Slides
@@ -225,52 +185,5 @@ To access TrainingSites' official brand identity and style resources for course 
 * Add all five brand colors to Brand Kit
 * Create heading style: Comfortaa 700, 40px, Dark Blue
 * Create body style: Roboto 400, 16px, Dark Gray
-
-### WordPress/Web
-* Import Google Fonts in theme header
-* Apply font stack to body and headings
-* Style buttons with brand colors and hover effects
-* Use brand colors for links and interactive elements
-
-## Course Material Specific Guidelines
-
-### PDF Workbooks
-* Headers: Comfortaa, Dark Blue
-* Body text: Roboto, Dark Gray
-* Highlight boxes: Light Blue background
-* Checkmarks/success indicators: Green
-* Page backgrounds: White
-
-### Video Content
-* Title cards: Dark Blue background, white Comfortaa text
-* Lower thirds: Light Blue background, white text
-* Progress bars: Green for completed portions
-* Call-to-action overlays: Dark Blue with white text
-
-### Interactive Elements
-* Quiz buttons: Dark Blue default, Green on correct answers
-* Navigation: Light Blue for active states
-* Form fields: Light Blue focus states
-* Error messages: Use Dark Gray, avoid red (keep positive tone)
-
-## Best Practices
-
-### Accessibility
-* Maintain high contrast ratios (Dark Gray on White, White on Dark Blue)
-* Use Green sparingly for critical information (colorblind consideration)
-* Ensure text remains readable at minimum 16px size
-* Test color combinations for WCAG compliance
-
-### Consistency
-* Always pair Comfortaa with Roboto (never mix with other fonts)
-* Use Dark Blue for primary actions, Green for success only
-* Maintain consistent spacing and border radius (6px)
-* Keep button and interactive element styling uniform
-
-### Educational Context
-* Use Green for "correct" or "completed" states in learning materials
-* Apply Light Blue for information callouts and tips
-* Reserve Dark Blue for main navigation and primary CTAs
-* Use subtle Dark Blue tints for section breaks and organization
 
 This brand system is specifically designed for educational content creators, ensuring materials look professional while remaining approachable for beginner learners.
