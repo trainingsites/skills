@@ -1,0 +1,9 @@
+Using the TrainingSites brand skill, create a Google Doc formatted checklist for beginners who want to learn how to write effective AI prompts. Include:
+
+1. A clear title using our brand colors
+2. Main sections with proper heading hierarchy  
+3. Individual checklist items with actionable steps
+4. Pro tips highlighted in our brand colors
+5. Success indicators using green checkmarks
+
+Make it beginner-friendly and easy to scan, following our content hierarchy guidelines.
