@@ -1,0 +1,64 @@
+# AI Prompting Mastery Checklist - TrainingSites Method
+
+## Getting Started with Effective AI Prompts
+
+### ✓ Foundation Setup
+- [ ] Understand your goal before writing any prompt
+- [ ] Start with simple, clear language (avoid jargon)
+- [ ] Practice with basic prompts before advancing
+
+**💡 Pro Tip:** The best prompts are conversations, not commands. Think about how you'd explain your need to a helpful colleague.
+
+### ✓ Prompt Structure Basics
+- [ ] Begin with context about your situation
+- [ ] Clearly state what you want the AI to do
+- [ ] Specify the format you need (list, paragraph, steps, etc.)
+- [ ] Include any constraints or requirements
+
+**💡 Pro Tip:** Use "Act as a [role]" to give Claude helpful context about the perspective you need.
+
+### ✓ Making Prompts More Effective
+- [ ] Be specific about length (short email, 3-paragraph summary, etc.)
+- [ ] Include examples when possible ("like this, but for...")
+- [ ] Ask for explanations when learning ("explain why you chose this approach")
+- [ ] Use follow-up questions to refine results
+
+**💡 Pro Tip:** If your first result isn't quite right, ask Claude to adjust specific parts rather than starting over.
+
+### ✓ Common Beginner Mistakes to Avoid
+- [ ] Don't use overly complex or technical language
+- [ ] Avoid vague requests like "make this better"
+- [ ] Don't assume the AI knows unstated context
+- [ ] Never skip proofreading AI-generated content
+
+**💡 Pro Tip:** The more context you provide, the better your results will be. Think of it as briefing a new team member.
+
+### ✓ Practice and Improvement
+- [ ] Try the same prompt with small variations to see differences
+- [ ] Save prompts that work well for future use
+- [ ] Build a collection of "starter prompts" for common tasks
+- [ ] Practice regularly with different types of content
+
+**💡 Pro Tip:** Keep a "prompt journal" to track what works best for different types of tasks you do regularly.
+
+---
+
+**🎯 Success Indicator:** You'll know you're getting good at prompting when you can get useful results with your first attempt most of the time, and you know exactly how to adjust when you don't.
+
+**📚 Next Steps:** Once you've mastered these basics, explore advanced techniques like role-playing prompts, step-by-step reasoning, and multi-part conversations.
+
+---
+*Created with TrainingSites brand guidelines - Dark Blue headings (Comfortaa), Green checkmarks and success indicators, Light Blue highlight boxes for pro tips.*
+```
+
+5. **Commit message:** "Add output example showing TrainingSites branded checklist"
+6. **Click "Commit changes"**
+
+## **Your Final Folder Structure Should Look Like:**
+```
+trainingsites-brand/
+├── SKILL.md                    ✅ Done
+├── README.md                   ✅ Done  
+└── examples/                   ✅ Working on this
+    ├── input-example.txt       ✅ Just created
+    └── output-example.txt      ✅ Creating now
